@@ -9,9 +9,7 @@
 
 <p align="center">
   <strong><a href="https://github.com/ChristopherRobi7">Website</a></strong> |
-  <strong><a href="https://tryhackme.com/p/requests">TryHackMe</a></strong> |
   <strong><a href="https://discord.com/users/1067109622214832191">Discord</a></strong> |
-  <strong><a href="https://steamcommunity.com/id/Steam</a></strong>
 </p>
 
 <div align="center">
