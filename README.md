@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1130456683492163585/1134816327035527280/3ec146be85c2e2eb5ae4e65919d2a355.gif" alt="Exploit GIF">
+  <img src="https://media.discordapp.net/attachments/1130456683492163585/1134816327035527280/3ec146be85c2e2eb5ae4e65919d2a355.gif" alt="Kenn GIF">
 </p>
 
 
@@ -19,7 +19,7 @@
 </div>
 
 
-<p align="center">⚡ I'm currently working on Game Development, Discord </p>
+<p align="center">⚡ I'm currently working on a Discord Bot </p>
 
 
 
